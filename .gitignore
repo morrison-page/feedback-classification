@@ -1,0 +1,11 @@
+# Dataset
+/dataset/
+*.zip
+
+# PyTorch Weights
+*.pth
+
+# Byte-compiled / Optimised DLL files
+__pycache__/
+*.py[cod]
+*$py.class
